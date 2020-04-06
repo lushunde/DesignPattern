@@ -1,0 +1,5 @@
+/**
+ * @author bellus
+ * µ¥ÀýÄ£Ê½
+ */
+package com.lushunde.desingn.singleton;
